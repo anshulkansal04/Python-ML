@@ -1,0 +1,1 @@
+## conda activate "D:\JIIT College\Python & ML\venv"
