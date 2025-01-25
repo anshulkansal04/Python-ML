@@ -1,1 +1,5 @@
 ## conda activate "D:\JIIT College\Python & ML\venv"
+pandas
+seaborn
+matplotlib
+scikit-learn
